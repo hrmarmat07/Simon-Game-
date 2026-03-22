@@ -13,6 +13,7 @@ document.addEventListener("keypress" , function () {
         started = true ;
 
         levelUp();
+        
     }
 });
 
